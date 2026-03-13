@@ -20,3 +20,7 @@ monitor climate trends and geographic temperature variations.
 ---
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
+
+Designed an interactive Power BI dashboard to analyze key metrics and trends, enabling clear visualization of insights and supporting data-driven business decisions.
+
+---
