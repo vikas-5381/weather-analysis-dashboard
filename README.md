@@ -24,3 +24,8 @@ monitor climate trends and geographic temperature variations.
 Designed an interactive Power BI dashboard to analyze key metrics and trends, enabling clear visualization of insights and supporting data-driven business decisions.
 
 ---
+
+<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+
+1.Identified key sales trends and revenue patterns to understand overall business performance.
+2.Analyzed customer purchasing behavior to determine the most valuable customer segments.
