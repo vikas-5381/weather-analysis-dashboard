@@ -27,5 +27,10 @@ Designed an interactive Power BI dashboard to analyze key metrics and trends, en
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-1.Identified key sales trends and revenue patterns to understand overall business performance.
-2.Analyzed customer purchasing behavior to determine the most valuable customer segments.
+1.Analyze temperature trends across different locations and time periods to understand climate patterns.
+2.Identify regions with extreme temperature variations that may impact environmental or planning decisions.
+3.Examine seasonal temperature changes to support forecasting and climate analysis.
+4.Detect temperature anomalies or unusual patterns that may indicate climate change effects.
+5.Compare average, minimum, and maximum temperatures to evaluate overall weather conditions and trends.
+
+---
