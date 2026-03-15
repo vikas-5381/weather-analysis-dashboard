@@ -34,3 +34,10 @@ Designed an interactive Power BI dashboard to analyze key metrics and trends, en
 5.Compare average, minimum, and maximum temperatures to evaluate overall weather conditions and trends.
 
 ---
+
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+1.Dataset Size:
+Contains temperature records across multiple locations and dates used to analyze winter climate patterns.
+2.Key Variables:
+Includes fields such as Date, City/Location, Minimum Temperature, Maximum Temperature, and Average Temperature.
