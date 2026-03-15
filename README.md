@@ -41,3 +41,11 @@ Designed an interactive Power BI dashboard to analyze key metrics and trends, en
 Contains temperature records across multiple locations and dates used to analyze winter climate patterns.
 2.Key Variables:
 Includes fields such as Date, City/Location, Minimum Temperature, Maximum Temperature, and Average Temperature.
+3.Time Period:
+Data covers winter season months across different years to track seasonal temperature variations.
+4.Data Source:
+Temperature data is collected from weather monitoring systems or meteorological databases.
+5.Purpose of Dataset:
+Used to analyze temperature trends, compare locations, and identify extreme cold patterns during winter.
+
+---
