@@ -49,3 +49,12 @@ Temperature data is collected from weather monitoring systems or meteorological 
 Used to analyze temperature trends, compare locations, and identify extreme cold patterns during winter.
 
 ---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- Power Bi 
+- Dax Function
+- Charts & Graphs
+- GitHub
+
+---
