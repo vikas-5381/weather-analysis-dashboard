@@ -58,3 +58,6 @@ Used to analyze temperature trends, compare locations, and identify extreme cold
 - GitHub
 
 ---
+
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
