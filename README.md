@@ -27,26 +27,26 @@ Designed an interactive Power BI dashboard to analyze key metrics and trends, en
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-1.Analyze temperature trends across different locations and time periods to understand climate patterns.
-2.Identify regions with extreme temperature variations that may impact environmental or planning decisions.
-3.Examine seasonal temperature changes to support forecasting and climate analysis.
-4.Detect temperature anomalies or unusual patterns that may indicate climate change effects.
-5.Compare average, minimum, and maximum temperatures to evaluate overall weather conditions and trends.
+- Analyze temperature trends across different locations and time periods to understand climate patterns.
+- Identify regions with extreme temperature variations that may impact environmental or planning decisions.
+- Examine seasonal temperature changes to support forecasting and climate analysis.
+- Detect temperature anomalies or unusual patterns that may indicate climate change effects.
+- Compare average, minimum, and maximum temperatures to evaluate overall weather conditions and trends.
 
 ---
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-1.Dataset Size:
-Contains temperature records across multiple locations and dates used to analyze winter climate patterns.
-2.Key Variables:
-Includes fields such as Date, City/Location, Minimum Temperature, Maximum Temperature, and Average Temperature.
-3.Time Period:
-Data covers winter season months across different years to track seasonal temperature variations.
-4.Data Source:
-Temperature data is collected from weather monitoring systems or meteorological databases.
-5.Purpose of Dataset:
-Used to analyze temperature trends, compare locations, and identify extreme cold patterns during winter.
+- Dataset Size:
+  Contains temperature records across multiple locations and dates used to analyze winter climate patterns.
+- Key Variables:
+  Includes fields such as Date, City/Location, Minimum Temperature, Maximum Temperature, and Average Temperature.
+- Time Period:
+  Data covers winter season months across different years to track seasonal temperature variations.
+- Data Source:
+  Temperature data is collected from weather monitoring systems or meteorological databases.
+- Purpose of Dataset:
+  Used to analyze temperature trends, compare locations, and identify extreme cold patterns during winter.
 
 ---
 
@@ -76,13 +76,13 @@ vrinda-store-analysis/
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-1.Removed Missing & Null Values – Handled blank temperature records using imputation and filtering techniques.
-2.Eliminated Duplicate Records – Identified and removed duplicate entries to maintain data accuracy.
-3.Standardized Data Formats – Unified date formats and temperature units (°C/°F) for consistency.
-4.Cleaned Column Names – Renamed columns and removed spaces/special characters for better usability.
-5.Transformed Data – Processed and reshaped data using Power BI.
-6.Handled Outliers – Removed unrealistic temperature values to ensure accurate analysis.
-7.Created Calculated Fields – Derived metrics like average, minimum, and maximum temperature.
+- Removed Missing & Null Values – Handled blank temperature records using imputation and filtering techniques.
+- Eliminated Duplicate Records – Identified and removed duplicate entries to maintain data accuracy.
+- Standardized Data Formats – Unified date formats and temperature units (°C/°F) for consistency.
+- Cleaned Column Names – Renamed columns and removed spaces/special characters for better usability.
+- Transformed Data – Processed and reshaped data using Power BI.
+- Handled Outliers – Removed unrealistic temperature values to ensure accurate analysis.
+- Created Calculated Fields – Derived metrics like average, minimum, and maximum temperature.
 
 ```
 
