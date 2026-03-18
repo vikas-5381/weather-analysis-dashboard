@@ -76,3 +76,13 @@ vrinda-store-analysis/
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
+1.Removed Missing & Null Values – Handled blank temperature records using imputation and filtering techniques.
+2.Eliminated Duplicate Records – Identified and removed duplicate entries to maintain data accuracy.
+3.Standardized Data Formats – Unified date formats and temperature units (°C/°F) for consistency.
+4.Cleaned Column Names – Renamed columns and removed spaces/special characters for better usability.
+5.Transformed Data – Processed and reshaped data using Power BI.
+6.Handled Outliers – Removed unrealistic temperature values to ensure accurate analysis.
+7.Created Calculated Fields – Derived metrics like average, minimum, and maximum temperature.
+
+```
+
