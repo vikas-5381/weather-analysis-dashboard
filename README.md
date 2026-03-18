@@ -73,3 +73,6 @@ vrinda-store-analysis/
 │   └── weather_analysis_dashboard.pbi
 
 ```
+
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
