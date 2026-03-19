@@ -86,3 +86,14 @@ vrinda-store-analysis/
 
 ```
 
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+
+**Negative or Missing Values Detected:
+- Checked for missing or zero values in temperature-related fields (e.g., min/max temperature).
+- Cleaned or replaced incorrect entries to ensure accurate seasonal analysis.
+**Outliers Identified:
+- Detected extreme temperature values (very high or unusually low readings).
+- Reviewed outliers to confirm whether they were valid winter extremes or data errors.
+**Correlation Analysis:
+- Analyzed relationships between variables such as date, region, and temperature.
+- Identified trends like temperature drops over time and regional winter patterns.
