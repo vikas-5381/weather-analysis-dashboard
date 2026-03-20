@@ -84,17 +84,16 @@ vrinda-store-analysis/
 - Handled Outliers – Removed unrealistic temperature values to ensure accurate analysis.
 - Created Calculated Fields – Derived metrics like average, minimum, and maximum temperature.
 
-```
 
-<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-**Negative or Missing Values Detected:
+1.**Negative or Missing Values Detected:
 - Checked for missing or zero values in temperature-related fields (e.g., min/max temperature).
 - Cleaned or replaced incorrect entries to ensure accurate seasonal analysis.
-**Outliers Identified:
+2.**Outliers Identified:
 - Detected extreme temperature values (very high or unusually low readings).
 - Reviewed outliers to confirm whether they were valid winter extremes or data errors.
-**Correlation Analysis:
+3.**Correlation Analysis:
 - Analyzed relationships between variables such as date, region, and temperature.
 - Identified trends like temperature drops over time and regional winter patterns.
 
