@@ -97,7 +97,6 @@ vrinda-store-analysis/
 - Analyzed relationships between variables such as date, region, and temperature.
 - Identified trends like temperature drops over time and regional winter patterns.
 
-```
 
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
