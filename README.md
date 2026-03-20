@@ -97,3 +97,15 @@ vrinda-store-analysis/
 **Correlation Analysis:
 - Analyzed relationships between variables such as date, region, and temperature.
 - Identified trends like temperature drops over time and regional winter patterns.
+
+```
+
+<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+
+- Identified clear seasonal trends with temperatures dropping significantly during peak winter months.
+- Certain regions consistently recorded lower temperatures compared to others.
+- Detected a few extreme temperature values indicating possible cold waves.
+- Temperature patterns showed gradual decline and rise across the winter timeline.
+- Data analysis revealed consistent correlations between time and temperature variation.
+
+  ```
