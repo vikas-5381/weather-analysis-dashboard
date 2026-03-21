@@ -107,3 +107,5 @@ vrinda-store-analysis/
 - Data analysis revealed consistent correlations between time and temperature variation.
 
   ```
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
