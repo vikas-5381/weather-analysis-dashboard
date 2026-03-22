@@ -134,5 +134,5 @@ power bi scripts/get_vidieo_summary.xlsx
 ```
 5. Open Power Bi Dashboard:
  ```bash
-   - `Prime video Dashboard.pbix`
+   - `Weathher Analysis Dashboard.pbix`
 ```
