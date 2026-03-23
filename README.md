@@ -109,7 +109,7 @@ vrinda-store-analysis/
   ```
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-Power BI Dashboard Shows:
+- Power BI Dashboard Shows:
 - Total Number of Movies and TV Shows
 - Content Distribution by Gender
 - Release Year Trends
@@ -145,3 +145,9 @@ Ensure continuous monitoring and cleaning of temperature data to remove missing 
 Use identified extreme temperature patterns to plan for cold waves and improve early warning systems.
 - Regional Planning:
 Implement region-specific strategies, as colder areas require more resources for winter preparedness compared to moderate regions.
+- Trend-Based Forecasting:
+Leverage historical winter trends to build predictive models for better seasonal planning and decision-making.
+- Dashboard Improvements:
+Add real-time data updates and interactive filters (region, date) to enhance usability and deeper analysis.
+- Support Decision Making:
+Utilize insights for sectors like agriculture, transportation, and public safety to minimize risks during winter conditions.
