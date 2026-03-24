@@ -151,3 +151,12 @@ Leverage historical winter trends to build predictive models for better seasonal
 Add real-time data updates and interactive filters (region, date) to enhance usability and deeper analysis.
 - Support Decision Making:
 Utilize insights for sectors like agriculture, transportation, and public safety to minimize risks during winter conditions.
+
+```
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Vikas Siddheshware**  
+Data Analyst      
+📧 Email: vikassiddheshware2001@gmail.com 
+🔗 [LinkedIn](www.linkedin.com/in/vikas-siddheshware) 
