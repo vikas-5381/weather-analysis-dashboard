@@ -56,6 +56,7 @@ Designed an interactive Power BI dashboard to analyze key metrics and trends, en
 - Dax Function
 - Charts & Graphs
 - GitHub
+- ETL ( Extract , Transform , Load )
 
 ---
 
@@ -140,17 +141,17 @@ power bi scripts/get_vidieo_summary.xlsx
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
 
 - Enhance Data Quality:
-- Ensure continuous monitoring and cleaning of temperature data to remove missing values and inconsistencies for accurate insights.
+ Ensure continuous monitoring and cleaning of temperature data to remove missing values and inconsistencies for accurate insights.
 - Focus on Extreme Weather Preparedness:
-- Use identified extreme temperature patterns to plan for cold waves and improve early warning systems.
+ Use identified extreme temperature patterns to plan for cold waves and improve early warning systems.
 - Regional Planning:
-- Implement region-specific strategies, as colder areas require more resources for winter preparedness compared to moderate regions.
+ Implement region-specific strategies, as colder areas require more resources for winter preparedness compared to moderate regions.
 - Trend-Based Forecasting:
-- Leverage historical winter trends to build predictive models for better seasonal planning and decision-making.
+  Leverage historical winter trends to build predictive models for better seasonal planning and decision-making.
 - Dashboard Improvements:
-- Add real-time data updates and interactive filters (region, date) to enhance usability and deeper analysis.
+ Add real-time data updates and interactive filters (region, date) to enhance usability and deeper analysis.
 - Support Decision Making:
-- Utilize insights for sectors like agriculture, transportation, and public safety to minimize risks during winter conditions.
+ Utilize insights for sectors like agriculture, transportation, and public safety to minimize risks during winter conditions.
 
 
 
